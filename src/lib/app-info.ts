@@ -1,4 +1,4 @@
-export const appName = "ODD WalletAuth Demo";
+export const appName = "Super Storage Attack";
 export const appDescription =
   "This is another awesome ODD WalletAuth app.";
 export const appURL = "https://walletauth-react.netlify.app";
